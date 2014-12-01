@@ -1,0 +1,11 @@
+loan_amnt,term,int_rate,installment,sub_grade,emp_length,home_ownership,annual_inc,is_inc_v,loan_status,desc,purpose,addr_state,dti,delinq_2yrs,earliest_cr_line,inq_last_6mths,open_acc,revol_bal,revol_util,total_acc,total_rec_late_fee,recoveries,collection_recovery_fee,fico_avg
+2500,60,15.27,59.83,C4,0,RENT,30000,1,1,590,car,GA,1,0,Apr-99,5,3,1687,9.40,4,0,117.08,1.11,742
+2400,36,15.96,84.33,C5,10,RENT,12252,0,0,0,small_business,IL,8.72,0,1-Nov,2,2,2956,98.50,10,0,0,0,737
+5600,60,21.28,152.39,F2,4,OWN,40000,1,1,322,small_business,CA,5.55,0,4-Apr,2,11,5210,32.60,13,0,189.06,2.09,677
+5375,60,12.69,121.45,B5,0,RENT,15000,1,1,473,other,TX,18.08,0,4-Sep,0,2,9279,36.50,3,0,269.29,2.52,727
+6500,60,14.65,153.45,C3,5,OWN,72000,0,0,253,debt_consolidation,AZ,16.12,0,Jan-98,2,14,4032,20.60,23,0,0,0,697
+12000,36,12.69,402.54,B5,10,OWN,75000,1,0,0,debt_consolidation,CA,10.78,0,Oct-89,0,12,23336,67.10,34,0,0,0,677
+9000,36,13.49,305.38,C1,0,RENT,30000,1,1,345,debt_consolidation,VA,10.08,0,4-Apr,1,4,10452,91.70,9,0,444.3,4.16,712
+10000,36,10.65,325.74,B2,3,RENT,100000,1,1,0,other,CA,7.06,0,May-91,2,14,11997,55.50,29,0,645.1,6.3145,722
+3600,36,6.03,109.57,A1,10,MORTGAGE,110000,0,0,198,major_purchase,CT,10.52,0,Aug-93,0,20,22836,16,42,0,0,0,762
+9200,36,6.03,280.01,A1,6,RENT,77385.19,0,0,0,debt_consolidation,CA,9.86,0,1-Jan,0,8,7314,23.10,28,0,0,0,757
